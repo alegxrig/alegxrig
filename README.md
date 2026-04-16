@@ -19,7 +19,7 @@ End-to-end infrastructure setup project demonstrating practical system administr
 * Network configuration and DNS setup
 * Docker installation and container management
 * Traffic inspection (`tcpdump`)
-* 🆕 Infrastructure automation using Ansible
+* Infrastructure automation using Ansible
 
 **Ansible automation:**
 
