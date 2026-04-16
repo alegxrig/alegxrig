@@ -64,3 +64,4 @@ Python script for parsing CSV/log files and preprocessing data using pandas.
 ## 📫 Contact
 
 Email: [alegxrig@gmail.com](mailto:alegxrig@gmail.com)
+Telegram: @werk_alex
