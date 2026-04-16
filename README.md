@@ -7,11 +7,11 @@
 
 ## 🛠 Tech Stack
 
-- Python
+- Docker
 - Linux
 - Bash
+- Python
 - Git
-- Docker
 - pandas / numpy
 - MATLAB / Simulink
 
