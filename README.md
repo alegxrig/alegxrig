@@ -1,7 +1,7 @@
 # Hi, I'm Alex Grigoryan 👋
 
 🎓 Master's student in Automation and Control Systems  
-💻 Interested in Python, Linux, DevOps and Automation  
+💻 Interested in Linux, DevOps, Automation, Python and Go.  
 
 ---
 
