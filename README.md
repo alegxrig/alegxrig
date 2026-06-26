@@ -7,7 +7,7 @@
 
 ## 🚀 Featured Project
 
-### 🔥 Linux DevOps Portfolio (Astra Linux Infrastructure)
+### 🔥 Linux DevOps Portfolio
 
 End-to-end infrastructure setup project demonstrating practical system administration and DevOps skills.
 
