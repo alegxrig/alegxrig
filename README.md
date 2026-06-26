@@ -13,9 +13,6 @@ A concurrent-safe, high-performance REST API microservice built with pure Go sta
 * **Testing:** 100% covered business logic with built-in Go Unit testing (`go test -v`).
 * **Web Architecture:** Implemented idiomatic routing, custom error handling, and structured JSON encoding/decoding.
 
-#### Demo / Preview
-![Task Manager API Screenshot](https://github.com)
-
 📎 Repository: [Go-RestApi Task Manager](https://github.com/alegxrig/task-manager-API-with-unit-tests-Go-RestApi-)
 
 ---
