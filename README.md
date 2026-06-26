@@ -5,7 +5,20 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Projects
+
+### 🐹 Go Task Manager API
+A concurrent-safe, high-performance REST API microservice built with pure Go standard library.
+* **Concurrency & Safety:** Implemented `sync.Mutex` to prevent race conditions and ensure thread-safe data operations.
+* **Testing:** 100% covered business logic with built-in Go Unit testing (`go test -v`).
+* **Web Architecture:** Implemented idiomatic routing, custom error handling, and structured JSON encoding/decoding.
+
+#### Demo / Preview
+![Task Manager API Screenshot](https://github.com)
+
+📎 Repository: [Go-RestApi Task Manager](https://github.com/alegxrig/task-manager-API-with-unit-tests-Go-RestApi-)
+
+---
 
 ### 🔥 Linux DevOps Portfolio
 
