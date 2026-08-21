@@ -17,7 +17,7 @@ A concurrent-safe, high-performance REST API microservice built with pure Go sta
 
 ---
 
-### 🔥 Linux DevOps Portfolio
+### 🔥 Diplomnaya rabota Linux System Administrator
 
 End-to-end infrastructure setup project demonstrating practical system administration and DevOps skills.
 
