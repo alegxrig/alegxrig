@@ -8,7 +8,15 @@
 ## 🚀 Projects
 
 ### Redfish Exporter (k8s + helm + prometeus)
+Prometheus-экспортёр метрик серверного железа (питание, health, температура) через Redfish API (DMTF).
 
+ ## Архитектура
+ 
+1. Горутина с time.Ticker каждые 15с опрашивает Redfish (BMC или mock) через gofish.
+2. Результат складывается в snapshot — кэш в памяти, защищённый sync.RWMutex.
+3. Кастомный prometheus.Collector на каждый scrape читает кэш под RLock(), не трогая сеть.
+4. /metrics отдаёт метрики с лейблами по системе/шасси/датчику.
+5. В Kubernetes Prometheus и mock BMC — отдельные поды, экспортёр находит их через кластерный DNS (Service).
 
 [Link to the REPO](https://github.com/alegxrig/redfish-exporter#redfish-exporter)
 
