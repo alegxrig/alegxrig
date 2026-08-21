@@ -7,6 +7,11 @@
 
 ## 🚀 Projects
 
+### Redfish Exporter (k8s + helm + prometeus)
+
+
+[Link to the REPO](https://github.com/alegxrig/redfish-exporter#redfish-exporter)
+
 ### 🐹 Go Task Manager API
 A concurrent-safe, high-performance REST API microservice built with pure Go standard library.
 * **Concurrency & Safety:** Implemented `sync.Mutex` to prevent race conditions and ensure thread-safe data operations.
