@@ -44,11 +44,16 @@ End-to-end infrastructure setup project demonstrating practical system administr
 ## 🛠 Tech Stack
 
 * Linux (Astra Linux, Ubuntu)
+* Git
+* GitLab CI/CD
+* Kubernetes
 * Docker
 * Ansible
 * Bash
-* Git
-* Python
+* Golang
+* Prometeus
+* Grafana
+* Terraform
 * MATLAB / Simulink
 
 ---
