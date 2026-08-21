@@ -18,7 +18,9 @@ Prometheus-экспортёр метрик серверного железа (п
 4. /metrics отдаёт метрики с лейблами по системе/шасси/датчику.
 5. В Kubernetes Prometheus и mock BMC — отдельные поды, экспортёр находит их через кластерный DNS (Service).
 
-[Link to the REPO](https://github.com/alegxrig/redfish-exporter#redfish-exporter)
+📎 Repository: [Redfish-exporter](https://github.com/alegxrig/redfish-exporter#redfish-exporter)
+
+---
 
 ### 🐹 Go Task Manager API
 A concurrent-safe, high-performance REST API microservice built with pure Go standard library.
