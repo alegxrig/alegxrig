@@ -7,7 +7,7 @@
 
 ## 🚀 Projects
 
-### Redfish Exporter (go + k8s + helm + prometeus)
+### 🐟 Redfish Exporter (go + k8s + helm + prometeus)
 Prometheus-экспортёр метрик серверного железа (питание, health, температура) через Redfish API (DMTF).
 
 ###  Архитектура
