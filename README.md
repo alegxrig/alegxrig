@@ -67,9 +67,6 @@ End-to-end infrastructure setup project demonstrating practical system administr
 * Bash
 * Golang
 * Prometeus
-* Grafana
-* Terraform
-* MATLAB / Simulink
 
 ---
 
